@@ -22,11 +22,11 @@ This web application is built using React and consumes the Spoonacular API to fe
 
 ## Disclaimer
 
-This application is provided "as is," and I, [Your Name], am not liable for any issues, damages, or consequences arising from its use. Please use the application responsibly and exercise caution when handling user data.
+This application is provided "as is," and I, am not liable for any issues, damages, or consequences arising from its use. Please use the application responsibly and exercise caution when handling user data.
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/[your-username]/recipe.git
+   git clone https://github.com/grace-creator/recipe.git
